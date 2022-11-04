@@ -5,6 +5,8 @@ interface NavLinkProps {
     isActive: boolean;
 }
 
+
+
 export const Container = styled.div`
     width: 100%;
     display: flex;
@@ -18,6 +20,14 @@ export const Container = styled.div`
         gap: 2rem;
         align-items: center;
     } 
+
+    > img {
+        width: 8rem;
+        // display: flex;
+        aligh-items: center;
+        // position: relative;
+        // left: -35rem;
+    }
 `;
 
 export const NavLinkContainer = styled.li<NavLinkProps>`
