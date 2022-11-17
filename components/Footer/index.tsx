@@ -3,8 +3,13 @@ import { Container } from './styles';
 import {
     AiOutlineTwitter,
     AiOutlineGithub,
-    AiFillLinkedin
+    AiFillLinkedin,
+    AiFillYoutube
   } from 'react-icons/ai';
+
+import {FiInstagram} from 'react-icons/fi';
+import {SiWhatsapp} from 'react-icons/si';
+
 
 
 export function Footer() {
@@ -34,6 +39,15 @@ export function Footer() {
 
                 <AiFillLinkedin
                     onClick={() => handleRedirect("https://br.linkedin.com/") }/>
+
+                <AiFillYoutube 
+                    onClick={() => handleRedirect("https://youtube.com.br")}/>
+
+                <FiInstagram
+                    onClick={() => handleRedirect("https://www.instagram.com/ferreramichael")}/>
+
+                <SiWhatsapp
+                    onClick={() => handleRedirect("https://whatsapp.com.br")}/>
             </section>
         </div>
 

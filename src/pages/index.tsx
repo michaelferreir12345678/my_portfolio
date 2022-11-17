@@ -13,8 +13,9 @@ import { Footer } from '../../components/Footer';
 export default function Home() {
   return (
     <HomeContainer>
+      <title>Michael Ferreira</title>
+      
       <Header/>
-
       <main className="container">       
         <HomeHero/>
         <Resumo/>
