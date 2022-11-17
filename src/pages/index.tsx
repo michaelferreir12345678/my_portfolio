@@ -4,6 +4,7 @@ import HomeHero from '../../components/HomeHero';
 import Experiencias from '../../components/Experiencias';
 import Resumo from '../../components/Resumo';
 import Projetos from '../../components/Projetos';
+import { Conhecimentos } from '../../components/Conhecimentos';
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <Resumo/>
         <Experiencias/>
         <Projetos/>
+        <Conhecimentos/>
       </main>
     </HomeContainer>
   );
