@@ -5,6 +5,10 @@ import Experiencias from '../../components/Experiencias';
 import Resumo from '../../components/Resumo';
 import Projetos from '../../components/Projetos';
 import { Conhecimentos } from '../../components/Conhecimentos';
+import { FormContato } from '../../components/FormContato';
+import { Footer } from '../../components/Footer';
+
+
 
 export default function Home() {
   return (
@@ -17,7 +21,10 @@ export default function Home() {
         <Experiencias/>
         <Projetos/>
         <Conhecimentos/>
+        <FormContato/>
       </main>
+
+      <Footer/>
     </HomeContainer>
   );
 }

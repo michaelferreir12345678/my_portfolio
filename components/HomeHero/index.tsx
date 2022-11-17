@@ -38,4 +38,4 @@ function HomeHero() {
     );
 };
 
-export default HomeHero; 
+export default HomeHero;
