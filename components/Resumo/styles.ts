@@ -5,7 +5,7 @@ export const Container = styled.div`
     p { 
         color: ${({theme}) => theme.secondary};
         font-weight: 300;
-        font-size: 1.5rem;        
+        font-size: 1.3rem;        
         text-indent: 4rem;
         line-height: 1.5;
         position: relative;
