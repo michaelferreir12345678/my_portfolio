@@ -30,7 +30,6 @@ export function Experiencias() {
         description='Realizava a operação do financeiro da empresa, contas a pagar e receber e tudo o que há inerente. Com análises de dados períodicas 
         para informação gerencial' 
         />
-
       </section>
     </Container>
   );

@@ -8,7 +8,7 @@ export const Container = styled.section`
   justify-content: center;
   margin-top: 5rem;
   > img {
-    width: 40rem;
+    width: 30rem;
     flex: 1;
   }
   > div {
@@ -16,7 +16,7 @@ export const Container = styled.section`
   }
   @media (max-width: 1450px) {
     > img {
-      width: 30rem;
+      width: 23rem;
     }
     > div {
       flex: 1;
@@ -24,7 +24,7 @@ export const Container = styled.section`
   }
   @media (max-width: 1000px) {
     > img {
-      width: 22rem;
+      width: 18rem;
     }
   }
   @media (max-width: 700px) {

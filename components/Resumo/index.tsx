@@ -21,7 +21,7 @@ export function Resumo() {
 
       <p>      
       Sou desenvolvedor backend em Java e Node.js e um curioso assíduo, graduando em Contábeis pela Universidade Federal do Ceará e estou me
-      graduando também em Análise e Desenvolvimento de sistemas pela PUC-MG. Sou apaixonado por tecnologia e boas práticas 
+      graduando também em Análise e Desenvolvimento de Sistemas pela PUC-MG. Sou apaixonado por tecnologia e boas práticas 
       no desenvolvimento de software e arquitetura. Pretendo em 2023 realizar pós-graduação em Engenharia de software.
       <br /><br />
       Atualmente trabalho como desenvolvedor Java na Secretaria de Planejamento e também trabalho como instrutor
