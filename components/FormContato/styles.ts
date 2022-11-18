@@ -100,13 +100,13 @@ export const WppContainer = styled.section`
   flex-wrap: wrap;
   p {
     color: ${({ theme }) => theme.primary};
-    font-weight: 300;
-    font-size: 1.3rem;
+    font-weight: 280;
+    font-size: 1.2rem;
     text-transform: uppercase;
   }
   svg {
-    width: 6.5rem;
-    height: 6.5rem;
+    width: 6rem;
+    height: 4.5rem;
     color: ${({ theme }) => theme.secondary};
     transition: 0.3s;
   }
@@ -116,4 +116,13 @@ export const WppContainer = styled.section`
       transform: scale(0.95);
     }
   }
-`;
+  @media (max-width: 700px) {
+    p {
+      font-weight: 250;
+      font-size: 1rem;
+    }    
+    svg {
+      width: 3.5rem;
+    }
+  `;
+  

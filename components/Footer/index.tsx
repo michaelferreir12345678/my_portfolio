@@ -10,8 +10,6 @@ import {
 import {FiInstagram} from 'react-icons/fi';
 import {SiWhatsapp} from 'react-icons/si';
 
-
-
 export function Footer() {
   function handleRedirect(url: string){
     window.open(url);
@@ -47,7 +45,7 @@ export function Footer() {
                     onClick={() => handleRedirect("https://www.instagram.com/ferreramichael")}/>
 
                 <SiWhatsapp
-                    onClick={() => handleRedirect("https://whatsapp.com.br")}/>
+                    onClick={() => handleRedirect("https://wa.me/5585981199442")}/>
             </section>
         </div>
 
