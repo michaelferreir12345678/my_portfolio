@@ -1,7 +1,8 @@
 import SectionTitle from '../SectionTitle';
 import ProjetoItem from './ProjetoItem';
 import Link from 'next/dist/client/link';
-import picture from '../../src/assets/cearaprev_proj.jpeg'
+import pictureCearaPrev from '../../src/assets/cearaprev_proj.jpeg';
+import pictureItic from '../../src/assets/print_Itic.png'
 
 
 import { Container } from './styles';
@@ -13,10 +14,17 @@ function Projetos() {
 
       <section>
         <ProjetoItem
-          img={picture}
+          img={pictureCearaPrev}
           title='Projeto 01'
           slug='/projetos'
           type='Aplicativo de celular'
+        />
+                
+        <ProjetoItem 
+          img={pictureItic}
+          title='Site ITIC'
+          slug='/projetos'
+          type='Website'
         />      
       </section>
       <button type='button'>

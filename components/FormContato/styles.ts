@@ -88,3 +88,32 @@ export const TextArea = styled.textarea`
     font-size: 1rem;
   }
 `;
+
+export const WppContainer = styled.section`
+  width: 100%;
+  margin-top: 3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 2rem;
+  flex-wrap: wrap;
+  p {
+    color: ${({ theme }) => theme.primary};
+    font-weight: 300;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+  }
+  svg {
+    width: 6.5rem;
+    height: 6.5rem;
+    color: ${({ theme }) => theme.secondary};
+    transition: 0.3s;
+  }
+  &:hover {
+    svg {
+      color: ${({ theme }) => theme.primary};
+      transform: scale(0.95);
+    }
+  }
+`;
