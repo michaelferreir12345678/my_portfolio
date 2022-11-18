@@ -20,7 +20,7 @@ export function Resumo() {
       </p> */}
 
       <p>      
-      Sou desenvolvedor backend em Java e Node.js e um curioso assíduo, graduando em Contábeis pela Universidade Federal do Ceará e estou me
+      Sou desenvolvedor backend em Java e Node.js e um curioso assíduo, graduado em Contábeis pela Universidade Federal do Ceará e estou me
       graduando também em Análise e Desenvolvimento de Sistemas pela PUC-MG. Sou apaixonado por tecnologia e boas práticas 
       no desenvolvimento de software e arquitetura. Pretendo em 2023 realizar pós-graduação em Engenharia de software.
       <br /><br />
