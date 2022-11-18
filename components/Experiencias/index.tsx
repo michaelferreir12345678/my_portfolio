@@ -9,24 +9,26 @@ export function Experiencias() {
 
       <section>
         <ExperienciaItem
-        year='2021'
-        title='Backend developer'
-        description='Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione explicabo facilis natus' 
+        year='2022'
+        title='Backend Java Developer - CearáPrev (Seplag)'
+        description='Desenvolvimento de projetos voltados aos servidores previdenciários do Estado do Ceará' 
+        />
+        <ExperienciaItem
+        year='2022'
+        title='Backend Java Developer'
+        description='Trabalho sendo desenvolvido junto ao Instituto de Tecnologia da Informaçao e Comunicação, 
+        que é uma instituição orientada a projetos. Manutenção do site institucional' 
         />
         <ExperienciaItem
         year='2021'
-        title='Backend developer'
-        description='Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione explicabo facilis natus' 
+        title='ERP Systems Analyst'
+        description='Realização de toda a gestão do software ERP da empresa' 
         />
         <ExperienciaItem
-        year='2021'
-        title='Backend developer'
-        description='Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione explicabo facilis natus' 
-        />
-        <ExperienciaItem
-        year='2021'
-        title='Backend developer'
-        description='Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione explicabo facilis natus' 
+        year='2020'
+        title='Financial Analyst Sr.'
+        description='Realizava a operação do financeiro da empresa, contas a pagar e receber e tudo o que há inerente. Com análises de dados períodicas 
+        para informação gerencial' 
         />
 
       </section>

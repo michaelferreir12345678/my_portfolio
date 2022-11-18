@@ -15,10 +15,16 @@ function HomeHero() {
                         <span className="comment">//Minha apresentação</span>
                         <span className="purple">Infos</span> {"\u007B"}
                         <div>
-                            Nome: <span className="blue">Michael Ferreira,</span>
+                            Desenvolvedor <span className="blue">back-end,</span>
                         </div>
                         <div>
-                            Idade: <span className="blue">27,</span>
+                            professor de <span className="blue">Python,</span>
+                        </div>
+                        <div>
+                            conversador de <span className="blue">política e</span>
+                        </div>
+                        <div>
+                            apreciador de <span className="blue">cerveja barata,</span>
                         </div>
                         {"\u007D"}
                     </CodeItem>
