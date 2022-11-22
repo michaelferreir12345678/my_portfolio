@@ -11,6 +11,7 @@ export function Conhecimentos() {
     <Container>
       <SectionTitle title="Conhecimentos" description='Front e Back-end'/>
       <section>
+        
         <ConhecimentoItem title="HTML" icon={<AiFillHtml5 />}/>
         <ConhecimentoItem title="CSS" icon={<FaCss3Alt/>}/>
         <ConhecimentoItem title="JavaScript" icon={<DiJavascript/>}/>

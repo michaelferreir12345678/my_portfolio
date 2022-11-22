@@ -62,7 +62,7 @@ export const ItemContainer = styled.div`
       padding-top: 1.5rem;
       h1 {
         font-size: 1.2rem;
-        margin-bottom: 0.6rem;
+        margin-bottom: 1rem;
       }
       h2 {
         font-size: 1rem;
