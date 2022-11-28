@@ -21,7 +21,7 @@ export function Resumo() {
 
       <p>      
       Sou desenvolvedor com foco Back-end em Java 11 e Node.js e um curioso assíduo, com experiência em Spring Boot, Hibernate, JSF,
-      Express, Nest.js, arquitetura REST e Microsserviços. Banco de dados Oracle 11g e 12c, PostgreSQL e Microsoft SQL Server.
+      Express, Nest.js, arquitetura REST e Microsserviços. Banco de dados como Oracle 11g e 12c, PostgreSQL e Microsoft SQL Server.
       <br /><br />
       Graduado em Contábeis pela Universidade Federal do Ceará e estou me graduando também em Análise e Desenvolvimento de Sistemas 
       pela PUC-MG. Sou apaixonado por tecnologia e boas práticas no desenvolvimento de software e arquitetura. Pretendo em 2023
