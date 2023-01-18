@@ -23,7 +23,7 @@ export default function Home() {
         <Experiencias/>
         <Projetos/>
         <Conhecimentos/>
-        <FormContato/>
+        <FormContato/>  
       </main>
 
       <Footer/>

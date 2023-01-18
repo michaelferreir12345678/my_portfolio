@@ -36,16 +36,16 @@ export function Footer() {
                     onClick={() => handleRedirect("https://github.com/michaelferreir12345678") }/>
 
                 <AiFillLinkedin
-                    onClick={() => handleRedirect("https://br.linkedin.com/") }/>
+                    onClick={() => handleRedirect("https://www.linkedin.com/in/michael-ferreira-sousa/") }/>
 
                 <AiFillYoutube 
                     onClick={() => handleRedirect("https://youtube.com.br")}/>
 
                 <FiInstagram
-                    onClick={() => handleRedirect("https://www.instagram.com/ferreramichael")}/>
+                    onClick={() => handleRedirect("https://www.instagram.com/ferreiramichael")}/>
 
                 <SiWhatsapp
-                    onClick={() => handleRedirect("https://wa.me/5585981199442")}/>
+                    onClick={() => handleRedirect("https://wa.me/5585981528504")}/>
             </section>
         </div>
 
