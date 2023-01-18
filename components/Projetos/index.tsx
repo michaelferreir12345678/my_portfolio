@@ -10,7 +10,7 @@ import { Container } from './styles';
 function Projetos() {
   return (
     <Container> 
-      <SectionTitle title="Últimos projetos" description=""/> 
+      <SectionTitle title="Últimos projetos" description="(em atualização...)"/> 
 
       <section>
         <ProjetoItem
