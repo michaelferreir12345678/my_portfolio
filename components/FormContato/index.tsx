@@ -9,7 +9,7 @@ export function FormContato() {
     <Container>
         <SectionTitle 
         title={<> Precisa dos <br /> meus serviços?</>}
-        description={<>Preencha o formulário abaixo que <br/>irei retornar o mais breve possível.</>}
+        description={<>Preencha o formulário ou fale pelo wpp abaixo, que <br/>irei retornar o mais breve possível.</>}
         />
         <section>
           <Whatsapp/>

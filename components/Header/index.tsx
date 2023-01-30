@@ -10,7 +10,7 @@ function Header() {
             <img src={picture1} alt='Minha foto2'/>
             <ul>
                 <NavLink title="Home" path="/"/> 
-                <NavLink title="Projetos" path="/projetos"/> 
+                <NavLink title="Projetos" path="/projetos" includes/> 
             </ul>
         </Container>
     );
