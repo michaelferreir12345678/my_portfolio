@@ -21,7 +21,7 @@ function HomeHero() {
                             professor de <span className="blue">Python,</span>
                         </div>
                         <div>
-                            conversador de <span className="blue">política e</span>
+                            apaixonado por <span className="blue">ciência política e</span>
                         </div>
                         <div>
                             apreciador de <span className="blue">cerveja barata,</span>

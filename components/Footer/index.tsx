@@ -39,7 +39,7 @@ export function Footer() {
                     onClick={() => handleRedirect("https://www.linkedin.com/in/michael-ferreira-sousa/") }/>
 
                 <AiFillYoutube 
-                    onClick={() => handleRedirect("https://youtube.com.br")}/>
+                    onClick={() => handleRedirect("https://www.youtube.com/channel/UCn-hZL2BUgRyh5cIu2moJhA")}/>
 
                 <FiInstagram
                     onClick={() => handleRedirect("https://www.instagram.com/ferreiramichael")}/>

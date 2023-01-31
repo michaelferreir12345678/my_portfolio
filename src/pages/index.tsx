@@ -8,6 +8,7 @@ import { Conhecimentos } from '../../components/Conhecimentos';
 import { FormContato } from '../../components/FormContato';
 import { Footer } from '../../components/Footer';
 import pictureAba from '../../src/assets/logo_small.png'
+import Ajuda from '../../components/Ajuda';
 
 
 
@@ -19,6 +20,7 @@ export default function Home() {
       <Header/>
       <main className="container">       
         <HomeHero/>
+        <Ajuda/>
         <Resumo/>
         <Experiencias/>
         <Projetos/>
