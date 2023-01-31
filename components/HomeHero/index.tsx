@@ -18,9 +18,6 @@ function HomeHero() {
                             Desenvolvedor <span className="blue">back-end,</span>
                         </div>
                         <div>
-                            professor de <span className="blue">Python,</span>
-                        </div>
-                        <div>
                             apaixonado por <span className="blue">ciência política e</span>
                         </div>
                         <div>

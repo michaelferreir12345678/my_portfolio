@@ -10,15 +10,15 @@ import { Container } from './styles';
 function Projetos() {
   return (
     <Container> 
-      <SectionTitle title="Últimos projetos" description="(em atualização...)"/> 
+      <SectionTitle title="Últimos projetos" description="(em manutenção...)"/> 
 
       <section>
-        <ProjetoItem
+        {/* <ProjetoItem
           img={pictureCearaPrev}
           title='Projeto 01'
           slug='/projetos'
           type='Aplicativo de celular'
-        />
+        /> */}
                 
         <ProjetoItem 
           img={pictureItic}
