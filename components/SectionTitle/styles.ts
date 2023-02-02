@@ -8,7 +8,7 @@ import styled from "styled-components";
 
     h1 {
         color: ${({theme}) => theme.primary};
-        font-size: 4.5rem;
+        font-size: 4.0rem;
     }
  
     h2 {

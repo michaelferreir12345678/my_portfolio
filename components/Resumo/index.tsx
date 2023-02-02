@@ -19,7 +19,7 @@ export function Resumo() {
       pudessem me auxiliar.
       </p> */}
 
-      <p>      
+      <p data-aos="fade-left">      
       Sou desenvolvedor com foco Back-end em Java 11 e Node.js e um curioso assíduo, com experiência em Spring Boot, Hibernate, JSF,
       Express, Nest.js, arquitetura REST e Microsserviços. Banco de dados como Oracle 11g e 12c, PostgreSQL e MySql.
       <br /><br />

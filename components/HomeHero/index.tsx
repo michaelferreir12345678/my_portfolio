@@ -3,7 +3,7 @@ import picture from '../../src/assets/meu_projeto.png'
 
 function HomeHero() {
     return (
-        <Container>
+        <Container data-aos="fade-down">
             <img src={picture} alt='Minha foto'/>
             <div>
                 <TextContainer>
@@ -11,7 +11,7 @@ function HomeHero() {
                     <h2>Me chamo Michael</h2>
                 </TextContainer>
                 <InfosContainer>
-                    <CodeItem>
+                    <CodeItem data-aos="zoom-in">
                         <span className="comment">//Minha apresentação</span>
                         <span className="purple">Infos</span> {"\u007B"}
                         <div>
@@ -25,7 +25,7 @@ function HomeHero() {
                         </div>
                         {"\u007D"}
                     </CodeItem>
-                    <CodeItem>
+                    <CodeItem data-aos="zoom-in">
                         <span className="purple">Cargo</span> {"\u007B"}
                         <div>
                             Função: <span className="blue">Desenvolvedor Java e nodeJS,</span>

@@ -7,7 +7,7 @@ export default function Whatsapp(){
       }
 
     return (
-        <WppContainer>
+        <WppContainer data-aos="fade-right">
             <SiWhatsapp onClick={() => handleRedirect("https://wa.me/5585981528504") }/>
             <p>(85) 9-8152-8504</p>
         </WppContainer>

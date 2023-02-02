@@ -9,10 +9,11 @@
     "slicemachine": "start-slicemachine"
   },
   "dependencies": {
-    "@prismicio/client": "^6.7.3",
+    "@prismicio/client": "5.1.0",
     "@prismicio/helpers": "^2.3.8",
     "@prismicio/react": "^2.5.1",
     "@prismicio/slice-simulator-react": "^0.2.3",
+    "aos": "^2.3.4",
     "next": "10.2.0",
     "next-images": "^1.7.0",
     "polished": "^4.2.2",
@@ -20,6 +21,7 @@
     "react-dom": "17.0.2",
     "react-icons": "^4.6.0",
     "styled-components": "^5.3.0",
+    "swiper": "^9.0.1",
     "yarn": "^1.22.19"
   },
   "devDependencies": {

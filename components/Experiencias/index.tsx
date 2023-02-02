@@ -11,7 +11,7 @@ export function Experiencias() {
         <ExperienciaItem
         year='2022'
         title='Backend Java Developer - CearáPrev (Seplag)'
-        description='Desenvolvimento de projetos voltados aos servidores previdenciários do Estado do Ceará' 
+        description='Desenvolvimento e manutenção de projetos voltados aos servidores previdenciários do Estado do Ceará' 
         />
         <ExperienciaItem
         year='2022'
@@ -22,13 +22,13 @@ export function Experiencias() {
         <ExperienciaItem
         year='2021'
         title='ERP Systems Analyst'
-        description='Realização de toda a gestão do software ERP da empresa' 
+        description='Gestão do software ERP da empresa.' 
         />
         <ExperienciaItem
         year='2020'
         title='Financial Analyst Sr.'
-        description='Realizava a operação do financeiro da empresa, contas a pagar e receber e tudo o que há inerente. Com análises de dados períodicas 
-        para informação gerencial' 
+        description='Realização do operacional financeiro da empresa. Com análises de dados períodicas 
+        para informação gerencial.' 
         />
       </section>
     </Container>
