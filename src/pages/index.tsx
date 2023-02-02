@@ -38,7 +38,6 @@ export default function Home() {
           property="og:description"
           content="Sou um desenvolvedor back-end e aqui apresento alguns projetos desenvolvidos por mim!"
         />
-
       </Head>
 
      

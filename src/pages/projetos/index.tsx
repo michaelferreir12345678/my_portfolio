@@ -6,12 +6,12 @@ import Head from 'next/head';
 
 export default function Projetos() {
     return (
-        <ProjetosContainer>
-            <Header/>
+        <ProjetosContainer >
+            <Head>
                 <title>Projetos | Michael Ferreira</title>
                 <meta
-                    name="description"
-                    content="Sou um desenvolvedor back-end e aqui apresento alguns projetos desenvolvidos por mim!"
+                name="description"
+                content="Sou um desenvolvedor back-end e aqui apresento alguns projetos desenvolvidos por mim!"
                 />
                 <meta property="og:image" content="/ogimage.png" />
                 <meta property="og:image:secure_url" content="/ogimage.png" />
@@ -21,8 +21,11 @@ export default function Projetos() {
                 property="og:description"
                 content="Sou um desenvolvedor back-end e aqui apresento alguns projetos desenvolvidos por mim!"
                 />
+            </Head>
 
-             <main className="container">
+
+            <Header/>
+             <main className="container" data-aos="fade-down">
                 <ProjetoItem
                     title="Projeto 01"
                     type="Website"
