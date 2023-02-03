@@ -7,10 +7,8 @@ export function Ajuda() {
       <SectionTitle 
       title="Você ou sua empresa está precisando de desenvolvedor Backend?" 
       description='Role abaixo e saiba um pouco mais sobre minha carreira, minhas experiências e meus projetos.'/>
- 
-    </Container>
+     </Container>
 
   );
 };
-
 export default Ajuda

@@ -60,15 +60,16 @@ export const ItemContainer = styled.div`
     > div {
       height: 15rem;
       padding-top: 1.5rem;
+      max-width: 19rem;
       h1 {
-        font-size: 1.2rem;
+        font-size: 1.0rem;
         margin-bottom: 1rem;
       }
       h2 {
-        font-size: 1rem;
+        font-size: 0.9rem;
       }
       p {
-        font-size: 0.9rem;
+        font-size: 0.7rem;
       }
     }
   }

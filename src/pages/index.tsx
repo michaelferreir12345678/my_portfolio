@@ -48,7 +48,7 @@ export default function Home() {
         <Resumo/>
         <Projetos/>
         <Conhecimentos/>
-        <Ajuda/>
+        {/* <Ajuda/> */}
         <FormContato/>  
       </main>
 

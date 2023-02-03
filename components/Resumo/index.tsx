@@ -27,7 +27,7 @@ export function Resumo() {
       pela PUC-MG. Sou apaixonado por tecnologia e boas práticas no desenvolvimento de software e arquitetura. Pretendo em 2023
       realizar pós-graduação em Engenharia de software.
       <br /><br />
-      Também realizo trabalho como professor auxiliar de programação do módulo de Python na escola de programação 
+      Também realizei um trabalho como professor auxiliar de programação do módulo de Python na escola de programação 
       Infinity School. Tenho mais de 5 anos de experiência na área financeira com análise de dados utilizando softwares 
       como o Microsoft PowerBI, QlikView e QlikSense e sempre busquei trazer inovação para o setor, com ênfase em análise
       de dados para um suporte mais assertivo às decisões gerenciais.

@@ -18,7 +18,7 @@ function HomeHero() {
                             Desenvolvedor <span className="blue">back-end,</span>
                         </div>
                         <div>
-                            apaixonado por <span className="blue">ciência política e</span>
+                            apaixonado por <span className="blue">ciência política e</span> 
                         </div>
                         <div>
                             apreciador de <span className="blue">cerveja barata,</span>
